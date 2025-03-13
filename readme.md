@@ -97,6 +97,4 @@ curl -X GET http://localhost:5000/api/employees
 ---
 
 ## **🎯 Conclusión**
-Siguiendo estos pasos, deberías poder ejecutar `EmployeeService` sin problemas en **Windows + Visual Studio 2017+**. 🚀
-
-Si necesitas más ayuda con algún punto, dime y lo afinamos. 💪
+Siguiendo estos pasos, deberías poder ejecutar `EmployeeService` sin problemas en **Windows + Visual Studio 2017+**.
